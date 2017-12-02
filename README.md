@@ -1,2 +1,0 @@
-# itsaboutcode.github.io
-Blog
